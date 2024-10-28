@@ -17,6 +17,9 @@ The repository includes configurations and deployment guidelines for:
 - **Firebase Alternatives** - List of backend solutions
 - [**LibreOffice**](https://www.libreoffice.org/) - Document editing suite
 
+Other great repos to check out:
+- [Self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
 ## Getting Started
 
 1. Clone this repository:
