@@ -1,4 +1,5 @@
 # Pocketbase
+Open source alternative to firebase
 
 [Website](https://pocketbase.io/)
 
